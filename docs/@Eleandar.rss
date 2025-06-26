@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>elloh</title>
+    <description>Messages publics de @Eleandar@framapiaf.org</description>
+    <link>https://framapiaf.org/@Eleandar</link>
+    <image>
+      <url>https://stockage.framapiaf.org/framapiaf/accounts/avatars/000/043/730/original/6c18808b98e1faae.jpg</url>
+      <title>elloh</title>
+      <link>https://framapiaf.org/@Eleandar</link>
+    </image>
+    <lastBuildDate>Mon, 31 Mar 2025 20:02:27 +0000</lastBuildDate>
+    <webfeeds:icon>https://stockage.framapiaf.org/framapiaf/accounts/avatars/000/043/730/original/6c18808b98e1faae.jpg</webfeeds:icon>
+    <generator>Mastodon v4.3.5</generator>
+    <item>
+      <guid isPermaLink="true">https://framapiaf.org/@Eleandar/114258827537427074</guid>
+      <link>https://framapiaf.org/@Eleandar/114258827537427074</link>
+      <pubDate>Mon, 31 Mar 2025 20:02:27 +0000</pubDate>
+      <description>&lt;p&gt;Mes moteurs de recherche coups de coeur :&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.qwant.com" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class=""&gt;qwant.com&lt;/span&gt;&lt;span class="invisible"&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://duckduckgo.com" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class=""&gt;duckduckgo.com&lt;/span&gt;&lt;span class="invisible"&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ecosia.org" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class=""&gt;ecosia.org&lt;/span&gt;&lt;span class="invisible"&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://framapiaf.org/tags/Degooglisons" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Degooglisons&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/emancipasso" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;emancipasso&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/internaute" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;internaute&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/evolution" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;evolution&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/moteurderecherche" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;moteurderecherche&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <category>degooglisons</category>
+      <category>EmancipAsso</category>
+      <category>internaute</category>
+      <category>evolution</category>
+      <category>moteurderecherche</category>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://framapiaf.org/@Eleandar/114253354598002667</guid>
+      <link>https://framapiaf.org/@Eleandar/114253354598002667</link>
+      <pubDate>Sun, 30 Mar 2025 20:50:37 +0000</pubDate>
+      <description>&lt;p&gt;De l&amp;#39;aide pour degoogliser vos services ?&lt;/p&gt;&lt;p&gt;Y a une erreur sur le visuel Comprenez Mastodon et pas Mastadon.&lt;/p&gt;&lt;p&gt;&lt;a href="https://framapiaf.org/tags/Degooglisons" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Degooglisons&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/Framasoft" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Framasoft&lt;/span&gt;&lt;/a&gt;  &lt;a href="https://framapiaf.org/tags/Visuel" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Visuel&lt;/span&gt;&lt;/a&gt;  &lt;a href="https://framapiaf.org/tags/April" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;April&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/ChatonsOrg" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;ChatonsOrg&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/Alternatives" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Alternatives&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/Europe" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Europe&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/LogicielLibre" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;LogicielLibre&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://stockage.framapiaf.org/framapiaf/media_attachments/files/114/253/348/797/994/105/original/e823a3f373145bdc.webp" type="image/webp" fileSize="147642" medium="image">
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+      </media:content>
+      <category>degooglisons</category>
+      <category>framasoft</category>
+      <category>visuel</category>
+      <category>april</category>
+      <category>chatonsorg</category>
+      <category>alternatives</category>
+      <category>europe</category>
+      <category>logiciellibre</category>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://framapiaf.org/@Eleandar/114246936401119298</guid>
+      <link>https://framapiaf.org/@Eleandar/114246936401119298</link>
+      <pubDate>Sat, 29 Mar 2025 17:38:23 +0000</pubDate>
+      <description>&lt;p&gt;&lt;span class="h-card" translate="no"&gt;&lt;a href="https://piaille.fr/@musictopus" class="u-url mention"&gt;@&lt;span&gt;musictopus&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; &lt;/p&gt;&lt;p&gt;Au hasard de mastodon, une appli pour gérer son stock de CDs et de vinyles !&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.musictopus.fr/" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class=""&gt;musictopus.fr/&lt;/span&gt;&lt;span class="invisible"&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://framapiaf.org/tags/musique" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;musique&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/cd" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;cd&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/vinyle" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;vinyle&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/france" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;france&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/bordeaux" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;bordeaux&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/siteinternet" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;siteinternet&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/webapp" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;webapp&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <category>musique</category>
+      <category>cd</category>
+      <category>vinyle</category>
+      <category>france</category>
+      <category>bordeaux</category>
+      <category>siteinternet</category>
+      <category>webapp</category>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://framapiaf.org/@Eleandar/114246371834001609</guid>
+      <link>https://framapiaf.org/@Eleandar/114246371834001609</link>
+      <pubDate>Sat, 29 Mar 2025 15:14:49 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://ethiciel.org/blog.html#creer-un-collectif-fediverse" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class="ellipsis"&gt;ethiciel.org/blog.html#creer-u&lt;/span&gt;&lt;span class="invisible"&gt;n-collectif-fediverse&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Créez un collectif de danse à 2 ou de musique pour aller ensemble à des trainings ou soirées jams de musique ? Oui mais avec quel outil ?&lt;/p&gt;&lt;p&gt;&lt;a href="https://framapiaf.org/tags/dansea2" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;dansea2&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/danse" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;danse&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/musique" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;musique&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/jam" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;jam&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/collectif" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;collectif&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/bienveillance" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;bienveillance&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/groupe" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;groupe&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/danserock" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;danserock&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/danselatine" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;danselatine&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/jazz" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;jazz&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/blues" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;blues&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/ethiciel" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;ethiciel&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <category>dansea2</category>
+      <category>danse</category>
+      <category>musique</category>
+      <category>jam</category>
+      <category>collectif</category>
+      <category>bienveillance</category>
+      <category>groupe</category>
+      <category>danserock</category>
+      <category>danselatine</category>
+      <category>jazz</category>
+      <category>blues</category>
+      <category>ethiciel</category>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://framapiaf.org/@Eleandar/114239249561350246</guid>
+      <link>https://framapiaf.org/@Eleandar/114239249561350246</link>
+      <pubDate>Fri, 28 Mar 2025 09:03:31 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://ethiciel.org/index.html#nousaimons" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class="ellipsis"&gt;ethiciel.org/index.html#nousai&lt;/span&gt;&lt;span class="invisible"&gt;mons&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;L&amp;#39;émission libre à vous par l&amp;#39;APRIL ! Une mine d&amp;#39;or d&amp;#39;information et de débats !&lt;/p&gt;&lt;p&gt;Framasoft et leurs news nombreuses concernant l&amp;#39;écosystème technique et fonctionnel du logiciel libre !&lt;/p&gt;&lt;p&gt;ChatonsOrg (le flux rss, c&amp;#39;est quoi l&amp;#39;adresse exacte pour mon lecteur de flux RSS ?) Parce que cette adresse ne rentre pas dans mon lecteur RSS : &lt;a href="https://www.chatons.org/rss-chatons" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class=""&gt;chatons.org/rss-chatons&lt;/span&gt;&lt;span class="invisible"&gt;&lt;/span&gt;&lt;/a&gt; (J&amp;#39;ai fait une fausse manip ?)&lt;/p&gt;&lt;p&gt;&lt;span class="h-card" translate="no"&gt;&lt;a href="https://pouet.april.org/@aprilorg" class="u-url mention"&gt;@&lt;span&gt;aprilorg&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; &lt;br /&gt;&lt;span class="h-card" translate="no"&gt;&lt;a href="https://framapiaf.org/@Framasoft" class="u-url mention"&gt;@&lt;span&gt;Framasoft&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; &lt;br /&gt;&lt;span class="h-card" translate="no"&gt;&lt;a href="https://framapiaf.org/@ChatonsOrg" class="u-url mention"&gt;@&lt;span&gt;ChatonsOrg&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; &lt;/p&gt;&lt;p&gt;&lt;a href="https://framapiaf.org/tags/ethiciel" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;ethiciel&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/nousaimons" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;nousaimons&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ethiciel</category>
+      <category>nousaimons</category>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://framapiaf.org/@Eleandar/114229375469878585</guid>
+      <link>https://framapiaf.org/@Eleandar/114229375469878585</link>
+      <pubDate>Wed, 26 Mar 2025 15:12:25 +0000</pubDate>
+      <description>&lt;p&gt;Sinon y a ça mais pour la norme d’accessibilité Web WCAG qui est inclut dans le RGAA : &lt;a href="https://wave.webaim.org/" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class=""&gt;wave.webaim.org/&lt;/span&gt;&lt;span class="invisible"&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://framapiaf.org/@Eleandar/114229344033669075</guid>
+      <link>https://framapiaf.org/@Eleandar/114229344033669075</link>
+      <pubDate>Wed, 26 Mar 2025 15:04:25 +0000</pubDate>
+      <description>&lt;p&gt;En fait, l’extension Firefox ne fait pas de tests, elle indique les points à vérifier pour valider le référentiel et indique les instructions à appliquer pour que chaque règle soit vérifiée !&lt;/p&gt;&lt;p&gt;Ça concentre les informations, c’est plutôt cool et bien navigable mais ça fait pas gagner du temps …&lt;/p&gt;</description>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://framapiaf.org/@Eleandar/114229273694579648</guid>
+      <link>https://framapiaf.org/@Eleandar/114229273694579648</link>
+      <pubDate>Wed, 26 Mar 2025 14:46:32 +0000</pubDate>
+      <description>&lt;p&gt;Y a une extension Firefox qui propose de tester un site internet selon différentes versions du référentiel RGAA.: &lt;/p&gt;&lt;p&gt;&lt;a href="https://addons.mozilla.org/fr/firefox/addon/assistant-rgaa/" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class="ellipsis"&gt;addons.mozilla.org/fr/firefox/&lt;/span&gt;&lt;span class="invisible"&gt;addon/assistant-rgaa/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Ca dit des choses ! Purée le travail à faire ...&lt;/p&gt;&lt;p&gt;&lt;a href="https://framapiaf.org/tags/firefox" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;firefox&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/RGAA" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;RGAA&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/extensions" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;extensions&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/etatfrancais" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;etatfrancais&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/gouv" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;gouv&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/referentiel" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;referentiel&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/accessibilite" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;accessibilite&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/ethiciel" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;ethiciel&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <category>firefox</category>
+      <category>rgaa</category>
+      <category>extensions</category>
+      <category>EtatFrancais</category>
+      <category>gouv</category>
+      <category>referentiel</category>
+      <category>accessibilite</category>
+      <category>ethiciel</category>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://framapiaf.org/@Eleandar/114229043047074784</guid>
+      <link>https://framapiaf.org/@Eleandar/114229043047074784</link>
+      <pubDate>Wed, 26 Mar 2025 13:47:52 +0000</pubDate>
+      <description>&lt;p&gt;Des utilisateurs du RGAA ? Un retour éventuel à faire sur la mise en œuvre du référentiel ainsi que les outils proposés ?&lt;/p&gt;&lt;p&gt;&lt;a href="https://accessibilite.numerique.gouv.fr/" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class="ellipsis"&gt;accessibilite.numerique.gouv.f&lt;/span&gt;&lt;span class="invisible"&gt;r/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;quot;Pour faciliter la mise en accessibilité des sites et services numériques, la direction interministérielle du numérique (DINUM) édite le référentiel général d’amélioration de l’accessibilité, dont voici la quatrième version.&amp;quot;&lt;/p&gt;&lt;p&gt;C&amp;#39;est obligatoire pour les sites publics.&lt;/p&gt;&lt;p&gt;&lt;a href="https://framapiaf.org/tags/norme" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;norme&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/referentiel" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;referentiel&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/dev" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;dev&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/etatfrancais" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;etatfrancais&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/accessibilite" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;accessibilite&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/RGAA" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;RGAA&lt;/span&gt;&lt;/a&gt;  &lt;a href="https://framapiaf.org/tags/DemandeDeConseil" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;DemandeDeConseil&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <category>norme</category>
+      <category>referentiel</category>
+      <category>dev</category>
+      <category>EtatFrancais</category>
+      <category>accessibilite</category>
+      <category>rgaa</category>
+      <category>DemandeDeConseil</category>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://framapiaf.org/@Eleandar/114222492925854983</guid>
+      <link>https://framapiaf.org/@Eleandar/114222492925854983</link>
+      <pubDate>Tue, 25 Mar 2025 10:02:05 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://www.jeveuxaider.gouv.fr/" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class=""&gt;jeveuxaider.gouv.fr/&lt;/span&gt;&lt;span class="invisible"&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;J&amp;#39;utilise cette plateforme depuis près d&amp;#39;un an. Mes premières expériences n&amp;#39;ont pas été très concluantes mais la plateforme a grandi en terme d&amp;#39;utilisateurs et maintenant je dois dire qu&amp;#39;elle nous a rendu de bon service avec des profils recrutés très pertinents et bienveillants !&lt;/p&gt;&lt;p&gt;&lt;a href="https://framapiaf.org/tags/association" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;association&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/benevole" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;benevole&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/recrutement" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;recrutement&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/butnonlucratif" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;butnonlucratif&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/jeveuxaider" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;jeveuxaider&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/EtatFrancais" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;EtatFrancais&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/beauprojet" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;beauprojet&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/plateforme" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;plateforme&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <category>association</category>
+      <category>benevole</category>
+      <category>recrutement</category>
+      <category>butnonlucratif</category>
+      <category>jeveuxaider</category>
+      <category>EtatFrancais</category>
+      <category>beauprojet</category>
+      <category>plateforme</category>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://framapiaf.org/@Eleandar/114213975338791910</guid>
+      <link>https://framapiaf.org/@Eleandar/114213975338791910</link>
+      <pubDate>Sun, 23 Mar 2025 21:55:57 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://app.flus.fr/collections/1827065676254989553" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class="ellipsis"&gt;app.flus.fr/collections/182706&lt;/span&gt;&lt;span class="invisible"&gt;5676254989553&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Quelques liens sur l&amp;#39;éco-conception.&lt;/p&gt;&lt;p&gt;Si vous en avez d&amp;#39;autres mais aussi sur l&amp;#39;éco-déploiement d&amp;#39;applications web, je serai ravi de les lire et de les partager !&lt;/p&gt;&lt;p&gt;&lt;a href="https://framapiaf.org/tags/ethiciel" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;ethiciel&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/ecoconception" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;ecoconception&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/ecodeploiement" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;ecodeploiement&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/iac" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;iac&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/docker" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;docker&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/kubernetes" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;kubernetes&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/debian" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;debian&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/yunohost" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;yunohost&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/nixos" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;nixos&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/scalable" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;scalable&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ethiciel</category>
+      <category>ecoconception</category>
+      <category>ecodeploiement</category>
+      <category>iac</category>
+      <category>docker</category>
+      <category>kubernetes</category>
+      <category>debian</category>
+      <category>yunohost</category>
+      <category>nixos</category>
+      <category>scalable</category>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://framapiaf.org/@Eleandar/114213878460774111</guid>
+      <link>https://framapiaf.org/@Eleandar/114213878460774111</link>
+      <pubDate>Sun, 23 Mar 2025 21:31:19 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://ethiciel.org/blog.html#comprendre-sa-position-dacteur" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class="ellipsis"&gt;ethiciel.org/blog.html#compren&lt;/span&gt;&lt;span class="invisible"&gt;dre-sa-position-dacteur&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comprendre sa position d&amp;#39;acteur dans le développement des logiciels libres ?&lt;/p&gt;&lt;p&gt;Vous, toi et moi !&lt;/p&gt;&lt;p&gt;&lt;span class="h-card" translate="no"&gt;&lt;a href="https://framapiaf.org/@Framasoft" class="u-url mention"&gt;@&lt;span&gt;Framasoft&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; &lt;/p&gt;&lt;p&gt;(En bonus &lt;a href="https://resolu.guide/" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class=""&gt;resolu.guide/&lt;/span&gt;&lt;span class="invisible"&gt;&lt;/span&gt;&lt;/a&gt; qui a inspiré cet article).&lt;/p&gt;&lt;p&gt;&lt;a href="https://framapiaf.org/tags/ethiciel" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;ethiciel&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/logiciellibre" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;logiciellibre&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/financement" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;financement&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/contribution" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;contribution&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/grandpublic" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;grandpublic&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/resolu" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;resolu&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/deploiement" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;deploiement&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/developpement" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;developpement&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/framasoft" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;framasoft&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/resolu" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;resolu&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <category>framasoft</category>
+      <category>ethiciel</category>
+      <category>logiciellibre</category>
+      <category>financement</category>
+      <category>contribution</category>
+      <category>grandpublic</category>
+      <category>resolu</category>
+      <category>deploiement</category>
+      <category>developpement</category>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://framapiaf.org/@Eleandar/114211128010729341</guid>
+      <link>https://framapiaf.org/@Eleandar/114211128010729341</link>
+      <pubDate>Sun, 23 Mar 2025 09:51:50 +0000</pubDate>
+      <description>&lt;p&gt;Des &lt;a href="https://framapiaf.org/tags/danseur" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;danseur&lt;/span&gt;&lt;/a&gt; et &lt;a href="https://framapiaf.org/tags/danseuse" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;danseuse&lt;/span&gt;&lt;/a&gt; de rock : &lt;a href="https://framapiaf.org/tags/swing" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;swing&lt;/span&gt;&lt;/a&gt; , &lt;a href="https://framapiaf.org/tags/rock6temps" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;rock6temps&lt;/span&gt;&lt;/a&gt;, &lt;a href="https://framapiaf.org/tags/balboa" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;balboa&lt;/span&gt;&lt;/a&gt; , &lt;a href="https://framapiaf.org/tags/lindyhop" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;lindyhop&lt;/span&gt;&lt;/a&gt; , &lt;a href="https://framapiaf.org/tags/rock4temps" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;rock4temps&lt;/span&gt;&lt;/a&gt; , &lt;a href="https://framapiaf.org/tags/ceroc" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;ceroc&lt;/span&gt;&lt;/a&gt; , &lt;a href="https://framapiaf.org/tags/westcoastswing" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;westcoastswing&lt;/span&gt;&lt;/a&gt; etc.. ?&lt;/p&gt;&lt;p&gt;&lt;a href="https://framapiaf.org/tags/danserock" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;danserock&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/france" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;france&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/iledefrance" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;iledefrance&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/paris" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;paris&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="h-card" translate="no"&gt;&lt;a href="https://piaille.fr/@dansea2paname" class="u-url mention"&gt;@&lt;span&gt;dansea2paname&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+      <category>westcoastswing</category>
+      <category>danseur</category>
+      <category>danseuse</category>
+      <category>swing</category>
+      <category>rock6temps</category>
+      <category>balboa</category>
+      <category>lindyhop</category>
+      <category>rock4temps</category>
+      <category>ceroc</category>
+      <category>danserock</category>
+      <category>france</category>
+      <category>iledefrance</category>
+      <category>paris</category>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://framapiaf.org/@Eleandar/114210598324766077</guid>
+      <link>https://framapiaf.org/@Eleandar/114210598324766077</link>
+      <pubDate>Sun, 23 Mar 2025 07:37:08 +0000</pubDate>
+      <description>&lt;p&gt;Fedi ? Un retour sur la techno HTMX ? Ça me paraît assez simple et épurée mais qd même assez malléable pour faire des interfaces simples !&lt;/p&gt;&lt;p&gt;Tu en penses quoi, une expérience ou pensée à partager sur le sujet ?&lt;/p&gt;&lt;p&gt;&lt;a href="https://framapiaf.org/tags/dev" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;dev&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/htmx" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;htmx&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/question" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;question&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/logiciellibre" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;logiciellibre&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/brique" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;brique&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/simple" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;simple&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <category>dev</category>
+      <category>htmx</category>
+      <category>question</category>
+      <category>logiciellibre</category>
+      <category>brique</category>
+      <category>simple</category>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://framapiaf.org/@Eleandar/114202059723115757</guid>
+      <link>https://framapiaf.org/@Eleandar/114202059723115757</link>
+      <pubDate>Fri, 21 Mar 2025 19:25:39 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://ethiciel.org/blog.html#premier-hackathon" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class="ellipsis"&gt;ethiciel.org/blog.html#premier&lt;/span&gt;&lt;span class="invisible"&gt;-hackathon&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Le premier hackathon du libre se tiendra le samedi 12 et dimanche 13 avril en distanciel,  lisez l&amp;#39;article pour en savoir plus !&lt;/p&gt;&lt;p&gt;Il reste de la place !&lt;/p&gt;&lt;p&gt;Comme dit dans l&amp;#39;article un Grand Merci à Framasoft pour sa proposition d&amp;#39;outillage gratuit pour mener à bien ce projet.&lt;/p&gt;&lt;p&gt;&lt;span class="h-card" translate="no"&gt;&lt;a href="https://framapiaf.org/@Framasoft" class="u-url mention"&gt;@&lt;span&gt;Framasoft&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; &lt;br /&gt;&lt;span class="h-card" translate="no"&gt;&lt;a href="https://pouet.april.org/@aprilorg" class="u-url mention"&gt;@&lt;span&gt;aprilorg&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; &lt;br /&gt;&lt;span class="h-card" translate="no"&gt;&lt;a href="https://framapiaf.org/@ChatonsOrg" class="u-url mention"&gt;@&lt;span&gt;ChatonsOrg&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; &lt;br /&gt;&lt;span class="h-card" translate="no"&gt;&lt;a href="https://mastodon.tedomum.net/@deuxfleurs" class="u-url mention"&gt;@&lt;span&gt;deuxfleurs&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; &lt;/p&gt;&lt;p&gt;&lt;a href="https://framapiaf.org/tags/Hackathon" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Hackathon&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/Framasoft" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Framasoft&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/Dev" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Dev&lt;/span&gt;&lt;/a&gt;  &lt;a href="https://framapiaf.org/tags/GenerateurDeSite" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;GenerateurDeSite&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/Rust" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Rust&lt;/span&gt;&lt;/a&gt;  &lt;a href="https://framapiaf.org/tags/Vue" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Vue&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/Ethiciel" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Ethiciel&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hackathon</category>
+      <category>framasoft</category>
+      <category>dev</category>
+      <category>generateurdesite</category>
+      <category>rust</category>
+      <category>vue</category>
+      <category>ethiciel</category>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://framapiaf.org/@Eleandar/114201794683280933</guid>
+      <link>https://framapiaf.org/@Eleandar/114201794683280933</link>
+      <pubDate>Fri, 21 Mar 2025 18:18:15 +0000</pubDate>
+      <description>&lt;p&gt;Ça se précise pour les hackathons du Libre qui pour leur première tenue sera en distanciel !&lt;/p&gt;&lt;p&gt;On a un : &lt;br /&gt;- un mattermost (framateam.org)&lt;br /&gt;+ messagerie communautaire &lt;br /&gt;+ des tableaux pour le suivi projet. &lt;br /&gt;C&amp;#39;est TOP et bien pensé (mon usage est récent).&lt;/p&gt;&lt;p&gt;-  un nextcloud (frama.space)&lt;br /&gt;Nextcloud n&amp;#39;est pas le soft le plus sexy de la terre pour moi.&lt;/p&gt;&lt;p&gt;Merci à &lt;span class="h-card" translate="no"&gt;&lt;a href="https://framapiaf.org/@Framasoft" class="u-url mention"&gt;@&lt;span&gt;Framasoft&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; (à qui je donne à titre individuel).&lt;/p&gt;&lt;p&gt;Par ici:&lt;br /&gt;&lt;a href="https://matrix.to/#/!PLDJinWNhFvnvEMutx:matrix.org" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class="ellipsis"&gt;matrix.to/#/!PLDJinWNhFvnvEMut&lt;/span&gt;&lt;span class="invisible"&gt;x:matrix.org&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://framapiaf.org/tags/hackathon" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;hackathon&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/ethiciel" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;ethiciel&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/avril" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;avril&lt;/span&gt;&lt;/a&gt;  &lt;a href="https://framapiaf.org/tags/distanciel" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;distanciel&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/dev" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;dev&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hackathon</category>
+      <category>ethiciel</category>
+      <category>avril</category>
+      <category>distanciel</category>
+      <category>dev</category>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://framapiaf.org/@Eleandar/114196039667407665</guid>
+      <link>https://framapiaf.org/@Eleandar/114196039667407665</link>
+      <pubDate>Thu, 20 Mar 2025 17:54:41 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://ethiciel.org/blog.html#centre-dinformation-collaboratif" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class="ellipsis"&gt;ethiciel.org/blog.html#centre-&lt;/span&gt;&lt;span class="invisible"&gt;dinformation-collaboratif&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Un centre d&amp;#39;information collaboratif pour les associations, leurs membres et partenaires mêlant ligne éditoriale et contribution communautaire au tri des flux en abonnement.&lt;/p&gt;&lt;p&gt;&lt;a href="https://framapiaf.org/tags/association" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;association&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/communication" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;communication&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/visibilite" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;visibilite&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/rss" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;rss&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/atom" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;atom&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/ics" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;ics&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/evenements" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;evenements&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/diffusion" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;diffusion&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/flus" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;flus&lt;/span&gt;&lt;/a&gt;.fr &lt;span class="h-card" translate="no"&gt;&lt;a href="https://piaille.fr/@flus" class="u-url mention"&gt;@&lt;span&gt;flus&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+      <category>association</category>
+      <category>communication</category>
+      <category>visibilite</category>
+      <category>rss</category>
+      <category>atom</category>
+      <category>ics</category>
+      <category>evenements</category>
+      <category>diffusion</category>
+      <category>flus</category>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://framapiaf.org/@Eleandar/114195577685085316</guid>
+      <link>https://framapiaf.org/@Eleandar/114195577685085316</link>
+      <pubDate>Thu, 20 Mar 2025 15:57:11 +0000</pubDate>
+      <description>&lt;p&gt;Une asso de musique voudrait un aggrégateur de flux RSS/ATOM mais aussi dans la même appli un aggrégateur de flux ICS.&lt;/p&gt;&lt;p&gt;Ce serait TOP ! Ça pourrait certainement donner une fonctionnalité très intéressante pour bcp d&amp;#39;asso autour de l&amp;#39;événemential.&lt;/p&gt;&lt;p&gt;Avec un fichier de configuration pour cet aggrégateur qui paramètrerait les flux à surveiller et à mettre en avant à l&amp;#39;utilisateur. Tous les membres de l&amp;#39;asso ou du groupement d&amp;#39;assos concerné aurait les mêmes infos.&lt;/p&gt;&lt;p&gt;&lt;a href="https://framapiaf.org/tags/information" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;information&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/ics" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;ics&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/rss" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;rss&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/atom" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;atom&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <category>information</category>
+      <category>ics</category>
+      <category>rss</category>
+      <category>atom</category>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://framapiaf.org/@Eleandar/114195551982046873</guid>
+      <link>https://framapiaf.org/@Eleandar/114195551982046873</link>
+      <pubDate>Thu, 20 Mar 2025 15:50:39 +0000</pubDate>
+      <description>&lt;p&gt;Pour le secteur de l&amp;#39;événementiel, connaissez-vous un aggrégateur de flux ICS (sur le modèle de news reader flus.fr et feeder) ?&lt;/p&gt;&lt;p&gt;Ex : je suis une asso de musique avec 30 groupes qui ont un compte mobilizon ou gancio et qui publient leurs concerts.&lt;/p&gt;&lt;p&gt;Notre asso veut remonter tous les événements pour les mettre en avant auprès de tout nos membres pour qu&amp;#39;il découvre facilement de façon passive ces groupes et puissent se rendre à leurs événements.&lt;/p&gt;&lt;p&gt;&lt;a href="https://framapiaf.org/tags/musique" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;musique&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/ics" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;ics&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/evenementiel" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;evenementiel&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/aggregateur" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;aggregateur&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/ethiciel" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;ethiciel&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <category>musique</category>
+      <category>ics</category>
+      <category>evenementiel</category>
+      <category>aggregateur</category>
+      <category>ethiciel</category>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://framapiaf.org/@Eleandar/114193705939412869</guid>
+      <link>https://framapiaf.org/@Eleandar/114193705939412869</link>
+      <pubDate>Thu, 20 Mar 2025 08:01:11 +0000</pubDate>
+      <description>&lt;p&gt;Pour savoir ce qu&amp;#39;est un flux RSS et comment l&amp;#39;utiliser avec Feeder, Flus.fr et bien d&amp;#39;autres applications sur ordinateur, mobile, tablette etc.&lt;/p&gt;&lt;p&gt;&lt;a href="https://fr.wikipedia.org/wiki/RSS" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class=""&gt;fr.wikipedia.org/wiki/RSS&lt;/span&gt;&lt;span class="invisible"&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://framapiaf.org/tags/fediverse" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;fediverse&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/flux" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;flux&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/rss" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;rss&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/atom" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;atom&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/application" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;application&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/lecture" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;lecture&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/visionnage" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;visionnage&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/photo" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;photo&lt;/span&gt;&lt;/a&gt; &lt;a href="https://framapiaf.org/tags/video" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;video&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <category>fediverse</category>
+      <category>flux</category>
+      <category>rss</category>
+      <category>atom</category>
+      <category>application</category>
+      <category>lecture</category>
+      <category>visionnage</category>
+      <category>photo</category>
+      <category>video</category>
+    </item>
+  </channel>
+</rss>
