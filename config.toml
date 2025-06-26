@@ -11,7 +11,7 @@ feed_limit = 10
 generate_sitemap = true
 
 # The URL the site will be built for
-base_url = "http://127.0.0.1:1111"
+base_url = "https://JoF06.github.io/Site-de-Ethiciel/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
