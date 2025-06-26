@@ -1,0 +1,53 @@
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>{% if page %}{{ page.title }}{% else %}{{ section.title }}{% endif %}</title>
+  <link rel="stylesheet" href="{{ get_url(path='styles.css', cachebust=true) }}">
+  {% block extra_head %}{% endblock extra_head %}
+</head>
+
+<body>
+  <header>
+        <div class="logo">
+            <img src="/logo-ethiciel-retravaille.png" alt="Éthiciel Logo">
+        </div>
+        <div id="menu">
+            <button id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <nav id="nav-menu"> 
+  <ul>
+    {% set index_section = get_section(path="_index.md") %}
+    {% for page in index_section.pages %}
+      <li>
+        {% if page.title == "Blog" %}
+          <a href="{{ get_url(path='@/_index.md') }}#blog">Blog</a>
+        {% else %}
+          <a href="{{ get_url(path='@/_index.md') }}#{{ page.slug }}">{{ page.title }}</a>
+        {% endif %}
+      </li>
+    {% endfor %}
+    <li>
+      <a href="/rss.xml">RSS</a>
+    </li>
+    <li>
+      <a href="/newsreader.html">Actualités connexes</a>
+    </li>
+  </ul>
+</nav>
+        </div>
+    </header>
+{% block content %} {% endblock content %}
+
+</body>
+
+</html>

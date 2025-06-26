@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block extra_head %}
+  <meta name="description" content="{{ section.description | default(value=config.description) }}">
+  <meta name="keywords" content="{{ section.extra.keywords | join(sep=", ") }}">
+{% endblock extra_head %}
+
+
+{% block content %}
+  {% for page in section.pages %}
+  {% if page.title == "Blog" %}
+    <section id="blog" class="section">
+      <h1>{{ page.title }}</h2>
+
+      {% set blog_section = get_section(path="blog/_index.md") %}
+      {% for post in blog_section.pages %}
+        <article class="blog-post">
+          <h2>{{ post.title }}</h3>
+          <p class="date">Publié le {{ post.date | date(format="%d %B %Y", locale="fr_FR") }}</p>
+          <p>{{ post.description }}</p>
+          <a href="{{ get_url(path='@/blog/_index.md') }}#{{ post.slug }}">Lire la suite</a>
+        </article>
+      {% endfor %}
+    </section>
+  {% else %}
+    <section id="{{ page.slug }}" class="section">
+      {{ page.content | safe }}
+    </section>
+  {% endif %}
+  <a href="#top">↑ Retour en haut de page</a>
+{% endfor %}
+<footer>
+        <p>© 2025 Association Éthiciel. Tous droits réservés.</p>
+    </footer>
+{% endblock content %}

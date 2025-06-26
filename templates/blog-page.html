@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<p class="subtitle"><strong>{{ page.date }}</strong></p>
+<section class="section">
+  {{ page.content | safe }}
+</section>
+
+{% set blog_section = get_section(path="blog/_index.md") %}
+<ul class="section">
+  {% for post in blog_section.pages %}
+    <li>
+      <strong><a href="{{ post.permalink }}">{{ post.title }}</a></strong>
+    </li>
+  {% endfor %}
+</ul>
+
+{% endblock content %}
