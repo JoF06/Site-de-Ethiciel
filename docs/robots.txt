@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-Allow: /
-Sitemap: https://JoF06.github.io/Site-de-Ethiciel/sitemap.xml
